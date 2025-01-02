@@ -158,6 +158,9 @@ ActiveShell leverages the principles of RIF and AGNs to proactively identify ano
 
 ## 4. Active Graph Networks (AGN): Mapping X and Y Dimensions for Dynamic Relationships
 
+![20E9996F-6C4C-450E-A0C4-F3E01C7A3A0A](https://github.com/user-attachments/assets/63e0f248-aa81-4d18-af1d-410599fa6376)
+
+
 ### What is AGN?
 Active Graph Networks (AGN) underpin SlappAI’s relational intelligence, enabling dynamic mapping and traversal of relationships across X and Y dimensions. AGNs are designed to capture and analyze data relationships, providing real-time, context-rich insights.
 
@@ -264,6 +267,9 @@ AGN’s X and Y mapping allows:
 ### What is Cube4D?
 Cube4D enhances AGNs by introducing a Z-dimension, enabling hierarchical structuring and in-depth data analysis. It organizes multi-faceted data points, allowing seamless traversal between layers and facilitating dynamic interaction across datasets.
 
+![3F857D51-EDBB-4178-8E3E-496258E89C9F_1_102_o](https://github.com/user-attachments/assets/4d42622c-20f5-42e5-8115-25cf68aaa67f)
+
+
 ### Key Features
 1. **Hierarchical Depth:** Adds a third dimension for detailed data analysis.
 2. **Cross-Domain Scalability:** Applies to industries like logistics, retail, and education.
@@ -287,6 +293,12 @@ Cube4D empowers:
    Query-Cube |
    Where { $_.Dimension.Z -eq "ExamResults" -and $_.Score -lt 50 }
    ```
+
+![848E315D-8174-4B25-9C99-50D66B362086_1_201_a](https://github.com/user-attachments/assets/67948c5b-a3a8-4687-87bf-47360aef8c1d)
+
+![DC99BAC3-F34B-4A89-8BD2-F3259240282C_1_201_a](https://github.com/user-attachments/assets/3a6580cf-f67d-4e6a-8fe5-de97a1c759ea)
+
+
 
 ---
 
